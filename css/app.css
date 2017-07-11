@@ -1,0 +1,14 @@
+
+.row {
+    width: 100%;
+}
+
+.box {
+    width: 30%;
+    float: left;
+}
+
+.box img {
+    height: 200px;
+    width: 200px;
+}

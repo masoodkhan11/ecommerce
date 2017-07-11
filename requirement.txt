@@ -1,0 +1,44 @@
+
+main site:
+    home
+        product listing
+    single product
+        show detail
+    add to cart
+    cart
+    checkout
+    checkout success
+
+dashboard:
+    auth
+        login
+        signup
+        forget password
+    index
+        all link in dashboard
+
+    product
+        product listing
+    product/12
+        product edit
+    product/new
+        new product
+    product/delete/12
+
+    order
+        order listing
+    order/12
+        order edit
+
+
+bugs
+    signup submit show 500 error            //done
+    dashboard add product show sql error    //done
+    image upload feature is missing
+    after add product submit redirect to edit page for same product       //done
+    dasshboard product listing order by date and latest product come first    //done
+    order listing shows only order details like name, how many product, quantity,date, status and total price and option for view  //done
+    order details page show products listing in order and option for status //done
+
+
+
